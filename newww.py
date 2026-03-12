@@ -114,7 +114,7 @@ def main():
                 get_vector_store(text_chunks)
                 st.success("Done")
 
-    # Custom Footer
+    
     st.markdown('<div class="footer">Developed  by Sudhan and Dhanushkanth | Powered by Google Gemini LLM</div>', unsafe_allow_html=True)
 
 
